@@ -1,2 +1,2 @@
 # Go-learning
-Learning development in GoLang from multiple sources
+Learning development in GoLang.
